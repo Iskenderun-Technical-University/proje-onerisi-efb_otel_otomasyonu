@@ -1,0 +1,14 @@
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\bin\Debug\otel deneme 1.exe.config
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\bin\Debug\otel deneme 1.exe
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\bin\Debug\otel deneme 1.pdb
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel deneme 1.csprojAssemblyReference.cache
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel_deneme_1.BildirimEkran.resources
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel_deneme_1.Form1.resources
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel_deneme_1.Form2.resources
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel_deneme_1.OdaDurumKontrol.resources
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel_deneme_1.Properties.Resources.resources
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel_deneme_1.Resepsiyonekran.resources
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel deneme 1.csproj.GenerateResource.cache
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel deneme 1.csproj.CoreCompileInputs.cache
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel deneme 1.exe
+C:\Users\90538\Desktop\29.05.2021 21.39 son kodlu veri\obj\Debug\otel deneme 1.pdb
