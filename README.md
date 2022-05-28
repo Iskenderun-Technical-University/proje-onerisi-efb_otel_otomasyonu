@@ -72,4 +72,12 @@ ekranında görüntülenecek müşteri istek ve şikayet dilekçesi oluşturabil
     * Resepsiyon Ekranının Kodlanması (20.05.2022) - Buse Özmen
     * Veri Tabanı Bağlantıları (27.05.2022) - Fatih Duras
     * DataGridlerin Oluşturulup Kodlanması ve Sürekli Verilerin Yenilenmesi (27.05.2022) - Fatih Duras
- 
+
+
+
+ ![EFB-Project-Use-Case ](https://user-images.githubusercontent.com/106402768/170842477-0931fa36-e3d3-4ea0-bc1d-e13238aef455.png)
+![otel1](https://user-images.githubusercontent.com/106402768/170842594-f9445104-fb31-40d1-b19b-301b2ed69dd9.jpeg)
+![otel2](https://user-images.githubusercontent.com/106402768/170842600-982bfeb3-2eb4-4a6a-9589-8efa7e04eb77.jpeg)
+![otel3](https://user-images.githubusercontent.com/106402768/170842602-6c3c6c4a-dd67-4910-b76f-6f9066be0950.jpeg)
+
+![otel4](https://user-images.githubusercontent.com/106402768/170842604-989e1bbd-5761-4a5e-9c1e-4b998e71374c.jpeg)
